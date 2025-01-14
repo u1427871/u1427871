@@ -1,5 +1,6 @@
 - Hi, I'm Robert Lofgren. Due to Unviersity of Utah policy all of my repositories and projects are private.
-- If you message me I would be happy to go over any of my projects or work in depth.
+- If you message me I would be happy to go over any of my projects or work in depth. Projects I have done include
+- an online Snake game and a spreadsheet.
 - Email : Bobbylofgren@hotmail.com
 - Phone : 801 889-0109
 
